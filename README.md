@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Hola mundo! Soy Joel, estudiante de Desarrollo de Software.
 <!--
 **joeld4vid/joeld4vid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
